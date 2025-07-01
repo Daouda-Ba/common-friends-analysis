@@ -47,7 +47,7 @@ Chaque ligne représente un utilisateur avec :
 
 ---
 
-## ⚙️ Installation et exécution
+## Installation et exécution
 
 ### 1. Installer Spark
 
@@ -56,8 +56,7 @@ Chaque ligne représente un utilisateur avec :
   ```bash
   export SPARK_HOME=/chemin/vers/spark
   export PATH=$SPARK_HOME/bin:$PATH
-````
-
+  ```
 * Installer PySpark :
 
   ```bash
